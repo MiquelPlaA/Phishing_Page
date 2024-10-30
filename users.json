@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password": "pass123"
+    },
+    {
+      "username": "user2",
+      "password": "password456"
+    },
+    {
+      "username": "hola",
+      "password": "Hackin-Arena"
+    },
+    {
+      "username": "asdfdsf",
+      "password": "Hacking-Arena"
+    }
+  ]
+}
